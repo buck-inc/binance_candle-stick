@@ -1,2 +1,5 @@
-flask
+streamlit
+pandas
 requests
+plotly
+scikit-learn
